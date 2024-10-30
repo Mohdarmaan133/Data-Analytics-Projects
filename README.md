@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mohdarmaan133
-- 👀 I’m interested in Data analytics
-- This is my first power BI project
+- 👀 I’m interested in Data analytics.
+- My skills are Excel, sql, python, powerBI.
+- I create interactive Dashboard using Excel and powerbi.
 
 
 <!---
